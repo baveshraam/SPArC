@@ -1,0 +1,25 @@
+# SPARC Requirements
+
+# Core dependencies# Core dependencies
+
+PyQt5>=5.15.0PyQt5>=5.15.0
+
+psutil>=5.8.0psutil>=5.8.0
+
+
+
+# NLP dependencies# NLP dependencies
+
+nltk>=3.8nltk>=3.8
+
+scikit-learn>=1.3.0scikit-learn>=1.3.0
+
+numpy>=1.24.0numpy>=1.24.0
+
+pandas>=2.0.0pandas>=2.0.0
+
+
+
+# Optional: for better NLP performance# Optional: for better NLP performance
+
+# spacy>=3.6.0# spacy>=3.6.0
